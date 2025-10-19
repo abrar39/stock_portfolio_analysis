@@ -1,0 +1,13 @@
+# Core data analysis libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Market data and trading calendar utilities
+yfinance==0.2.44
+pandas_market_calendars==4.4.1
+
+# Visualization
+plotly==5.24.0
+
+# Optional dependencies for better compatibility
+datetime==5.5
