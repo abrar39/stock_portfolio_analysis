@@ -214,10 +214,3 @@ Suggested license: `MIT` — include `LICENSE` file if you choose this.
 If you have questions, improvements, or example datasets you'd like to test, open an issue or reach out in this repository's discussions.
 
 ---
-
-If you’d like, I can:
-
-* Convert this README into a `README.md` file and add a `requirements.txt` tailored to the script.
-* Refactor the script into a cleaner, testable module with a small CLI.
-  Which would you prefer?
-
